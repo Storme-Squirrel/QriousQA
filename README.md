@@ -1,2 +1,2 @@
-# QuriousQA
-Qurious QA Assignment answers.
+# QriousQA
+Qrious QA Assignment answers.
